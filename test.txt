@@ -5,9 +5,6 @@ feat 4
 feat 5
 feat 6
 feat 7
-<<<<<<< HEAD
 feat conf orig
-=======
-feat conf
->>>>>>> f847019b7d7e0cdae17dd1a2e5a66125d4e5cdf2
+feat conf orig2
 
